@@ -2,12 +2,6 @@
 
 #Address and Order Viewer Application
 
-This repo has 3 branches:
-
-1. Master: A completed solution to the challenge with some duplicated code for the user select list.
-2. New: A base working static file server and a working Angular app (routes, controllers). Nothing of the challenge is implemented.
-3. With Services: Master branch refactored using an Angular Service to populate the user drop-down list. Implemented in the AddressController but not the OrderController.
-
 ##Instructions
 
 You will be building out an address and order viewing application using the full stack and an SQL database. Both parts take advantage of one-to-many relationships in the data to be efficient.
