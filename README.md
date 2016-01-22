@@ -12,9 +12,9 @@ You’ll need to use much of what you’ve learned to-date in order to complete 
 
 Be sure to read the comments in this file!
 
-1. Create a New Postgres Database in PgAdmin or Postico
-2. Take the included sql_data.sql SQL file and update it where it asks (your name, add 2 addresses for yourself, uncomment the orders insert lines)
-3. Copy the SQL from this file and run it against this database in PgAdmin. 
+1. Create a New Postgres Database in PgAdmin or Postico.
+2. Take the included sql_data.sql SQL file and update it where it asks (your name, add 2 addresses for yourself, uncomment the orders insert lines).
+3. Copy the SQL from this file and run it against this database in PgAdmin or Postico. 
 4. You will now have a good place to work from.
 
 ##Application Requirements
