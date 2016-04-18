@@ -1,5 +1,3 @@
-# SQL-Angular-Routing-Weekend
-
 #Address and Order Viewer Application
 
 ##Instructions
